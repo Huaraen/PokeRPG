@@ -1,0 +1,216 @@
+{
+    "uso": "Ride",
+    "pokemons":[
+        {
+        "nome":"Copperajah",
+        "velocidade":"200",
+        "level":"100",
+        "Elemento": "Steel"
+        },
+        {
+        "nome":"Onix",
+        "velocidade":"250",
+        "level":"50",
+        "Elemento": ["Rock", "Ground"]
+        },
+        {
+        "nome":"Venusaur",
+        "velocidade":"320",
+        "level":"80",
+        "Elemento": ["Grass", "Poison"]
+        },
+        {
+        "nome":"Camerupt",
+        "velocidade":"320",
+        "level":"80",
+        "Elemento": ["Fire", "Ground"]
+        },
+        {
+        "nome":"Piloswine",
+        "velocidade":"320",
+        "level":"80",
+        "Elemento": ["Ice", "Ground"]
+        },
+        {
+        "nome":"Metagross",
+        "velocidade":"320",
+        "level":"100",
+        "Elemento": ["Metal","Psychic"]
+        },
+        {
+        "nome":"Rhyhorn",
+        "velocidade":"350",
+        "level":"30",
+        "Elemento": ["Rock", "Ground"]
+        },
+        {
+        "nome":"Bayleef",
+        "velocidade":"350",
+        "level":"40",
+        "Elemento": "Grass"
+        },
+        {
+        "nome":"Steelix",
+        "velocidade":"350",
+        "level":"100",
+        "Elemento": ["Steel", "Ground"]
+        },
+        {
+        "nome":"Mamoswine",
+        "velocidade":"350",
+        "level":"100",
+        "Elemento": ["Ice", "Ground"]
+        },
+        {
+        "nome":"Hippowdon",
+        "velocidade":"360",
+        "level":"100",
+        "Elemento": "Ground"
+        },
+        {
+        "nome":"Mudsdale",
+        "velocidade":"360",
+        "level":"100",
+        "Elemento": "Ground"
+        },
+        {
+        "nome":"Doduo",
+        "velocidade":"400",
+        "level":"10",
+        "Elemento": ["Normal", "Flying"]
+        },
+        {
+        "nome":"Mareep",
+        "velocidade":"400",
+        "level":"20",
+        "Elemento": "Electric"
+        },
+        {
+        "nome":"Lairon",
+        "velocidade":"400",
+        "level":"60",
+        "Elemento": ["Steel", "Rock"]
+        },
+        {
+        "nome":"Ponyta",
+        "velocidade":"420",
+        "level":"20",
+        "Elemento": "Fire"
+        },
+        {
+        "nome":"Meganium",
+        "velocidade":"450",
+        "level":"80",
+        "Elemento": "Grass"
+        },
+        {
+        "nome":"Stantler",
+        "velocidade":"450",
+        "level":"50",
+        "Elemento": "Normal"
+        },
+        {
+        "nome":"Pyroar",
+        "velocidade":"500",
+        "level":"100",
+        "Elemento": ["Normal", "Fire"]
+        },
+        {
+        "nome":"Heatran",
+        "velocidade":"500",
+        "level":"100",
+        "Elemento": ["Fire", "Steel"]
+        },
+        {
+        "nome":"Gogoat",
+        "velocidade":"530",
+        "level":"100",
+        "Elemento": "Grass"
+        },
+        {
+        "nome":"Manectric",
+        "velocidade":"550",
+        "level":"80",
+        "Elemento": "Electric"
+        },
+        {
+        "nome":"Dodrio",
+        "velocidade":"550",
+        "level":"50",
+        "Elemento": ["Normal", "Flying"]
+        },
+        {
+        "nome":"Ninetales",
+        "velocidade":"600",
+        "level":"100",
+        "Elemento": "Fire"
+        },
+        {
+        "nome":"Houndoom",
+        "velocidade":"600",
+        "level":"100",
+        "Elemento": ["Dark", "Fire"]
+        },
+        {
+        "nome":"Girafarig",
+        "velocidade":"600",
+        "level":"80",
+        "Elemento": ["Normal", "Psychic"]
+        },
+        {
+        "nome":"Tauros",
+        "velocidade":"600",
+        "level":"50",
+        "Elemento": "Normal"
+        },
+        {
+        "nome":"Absol",
+        "velocidade":"600",
+        "level":"100",
+        "Elemento": "Dark"
+        },
+        {
+        "nome":"Luxray",
+        "velocidade":"600",
+        "level":"100",
+        "Elemento": "Electric"
+        },
+        {
+        "nome":"Mightyena",
+        "velocidade":"600",
+        "level":"100",
+        "Elemento": "Dark"
+        },
+        {
+        "nome":"Arcanine",
+        "velocidade":"620",
+        "level":"100",
+        "Elemento": "Fire"
+        },
+        {
+        "nome":"Galarian Rapidash",
+        "velocidade":"680",
+        "level":"100",
+        "Elemento": ["Psychic", "Fairy"]
+        },
+        {
+        "nome":"Galarian Ponyta",
+        "velocidade":"680",
+        "level":"50",
+        "Elemento": "Psychic"
+        },
+        {
+        "nome":"Rapidash",
+        "velocidade":"680",
+        "level":"80",
+        "Elemento": "Fire"
+        },
+        {
+        "nome":"Zebstrika",
+        "velocidade":"680",
+        "level":"100",
+        "Elemento": "Electric"
+        }
+    ]
+
+}
